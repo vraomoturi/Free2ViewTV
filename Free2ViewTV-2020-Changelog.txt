@@ -44,8 +44,22 @@
 # list is dated as '2021' and without having to change to a new document URL.
 #
 #
-# COMING SOON: Content from critical thinker.cyou. Update to Distro TV, additional new channels to be added to Plex. 
-# COMING SOON: Move NPR radio. Add more iHeartRadio TV channels. Add more LCM movies. Add more premium 18+ videos. More.
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 12/28/2021 ** !! See chronology of changes below...
+# 01/10/22 - CHANNEL REMOVED: 247 Retro TV from "Movies Plus" removed because of a tokenized stream. No longer viable in playlists.
+# 01/09/22 - CHANNEL UPDATED: Kool TV | Webstream in "USA Free TV" updated. http://digital.kooltv-mn.com/index.php/live-stream
+# 01/08/22 - NEW CHANNELS: "Pluto TV": Added ★★ Music ★★ with MTV, Vevo streams; more game show streams in ★★ TV Favorites ★★.
+# 01/07/22 - CATEGORY DELETED: Due to a DMCA takedown order circulating the streaming scene, deleted "Local Now" category.
+# 01/05/22 - CONTENT UPDATED / NEW: VOD | Fireplace & Chill (18+) Videos updated, new versions added, "Adults Only | 18+" category.
+# 01/04/22 - CHANNELS RELOCATED: Deleted "FilmRise Free TV & Movies" group, relocated channels in new category "Binge TV".
+# 01/04/22 - CHANNELS RELOCATED: "Binge TV | [adult swim]" and "nosey" channels moved to new category "Binge TV".
+# 12/31/21 - CATEGORY MAINTENANCE: Updated some streams / EPG sources in "Free2View TV Select" category.
+# 12/29/21 - CATEGORY MAINTENANCE: Deleted "PBS (Geo-USA) | PBS + NPR" group, moved radio streams to new "NPR Radio Networks" group.
+# 12/29/21 - NEW CHANNEL: Added EPlusTV 6 | Jackson TN in "USA Free TV". https://www.eplustv6.com
+# 12/28/21 - CHANNEL MAINTENANCE: Updated 247 Retro TV live stream in "Movies Plus". http://www.247retro.com
+# COMING SOON: Updates to News, Sports, 18+ categories; consolidating more categories; cleaning up seasonal category.
+# COMING SOON: Content from critical thinker.cyou. Update to Distro TV; additional new channels to be added to Plex. 
+# COMING SOON: iHeartRadio visual playlists, as well as new radio streams with support from https://cultradioagogo.com
+# COMING SOON: New free TV regional categories from selected markets, with category-exclusive EPG listings and expanded channel lists.
 # !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 12/15/2021 ** !! See chronology of changes below...
 # 12/22/21 - CHANNEL REMOVED: Removed LCN from "Canada" group (no longer available to stream for free).
 # 12/22/21 - CHANNEL ADDED: Available until January 20, 2022: French-Canadian channel 'Zeste' added to "Canada" group, with EPG.
