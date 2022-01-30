@@ -44,6 +44,23 @@
 # list is dated as '2021' and without having to change to a new document URL.
 #
 #
+
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist finalized as of 01/30/2022 ** !! See chronology of changes below...
+# 01/27/22 - NEW CHANNELS ADDED: New channels added to the 'Hit TV' subcategory in "Plex Live TV".
+# 01/27/22 - CHANNELS UPDATED: Tags added, new EPG mapped to channels in "Entertainment" group, ★★ Shout! Factory TV ★★ subcategory. 
+# 01/24/22 - CHANNEL MAINTENANCE: EPG source for Digi TV | Webstream in "USA Free TV" now uses [7] https://cutt.ly/DSr95Combinedepg
+# 01/23/22 - RELOCATED: PBS | Maryland Public TV removed from "USA Free TV" and is now exclusive to new "USA Regional | 21117" group.
+# 01/18/22 - NEW CHANNELS / CATEGORY: "USA Regional | 21117" category added with new, exclusive EPG and channels. 
+# 01/18/22 - NEW EPG SOURCE: NEW! (01/19/22) [12] https://cutt.ly/EPG_MLD_21117 .. added with new channels, exclusive EPG data.
+# 01/16/22 - CATEGORY MAINTENANCE: Updated some streams and EPG mapping to some channels in "USA Free TV" category.
+# 01/16/22 - CATEGORY UPDATED / NEW STREAMS: Changed "Ambient TV" to "Ambient TV + Radio" with new Radio streams and VOD titles.
+# 01/15/22 - NEW CHANNELS: Added ★★ Home + DIY ★★ subcategory with a full set of channels from "Pluto TV".
+# 01/14/22 - NEW: From http://CultRadioAGoGo.com 🎶 Officially licensed to the Free2View TV Project! 🎶 added to "Free Live Radio".
+# 01/14/22 - NEW: https://www.zrock103.com FM radio Lexington KY added to 🎶 Free Live Radio Mix 🎶 subcategory in "Free Live Radio".
+# COMING SOON: Updates to News, Sports, 18+ categories; consolidating more categories; cleaning up seasonal category.
+# COMING SOON: Content from critical thinker.cyou. Update to Distro TV; additional new channels to be added to Plex. 
+# COMING SOON: iHeartRadio visual playlists, as well as new radio streams with support from https://cultradioagogo.com
+# COMING SOON: More free TV regional categories from selected markets, with category-exclusive EPG listings and expanded channel lists.
 # !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 12/28/2021 ** !! See chronology of changes below...
 # 01/10/22 - CHANNEL REMOVED: 247 Retro TV from "Movies Plus" removed because of a tokenized stream. No longer viable in playlists.
 # 01/09/22 - CHANNEL UPDATED: Kool TV | Webstream in "USA Free TV" updated. http://digital.kooltv-mn.com/index.php/live-stream
