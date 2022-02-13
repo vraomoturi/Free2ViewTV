@@ -44,7 +44,30 @@
 # list is dated as '2021' and without having to change to a new document URL.
 #
 #
-
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist finalized as of 02/14/2022 ** !! See chronology of changes below...
+# 02/12/22 - UPDATED CHANNELS: In "Binge TV" group, mapped EPG to '[adult swim]' using [7] https://cutt.ly/DSr95Combinedepg
+# 02/12/22 - PLEASE NOTE: EPG mapping for 'Morcaman' and 'Adult Swim' channels is still in beta testing, may not be 100% right now.
+# 02/10/22 - NEW CHANNELS: By request, added ABC7 New York 24/7 Eyewitness News Streams under ★★ Local News 24/7 ★★ in "Live News".
+# 02/08/22 - UPDATED CHANNELS: In "Movies Plus" group, updated ★★ https://morcaman.com ★★ now with EPG from source [7].
+# 02/07/22 - UPDATED: updated some PBS streams in the "USA Free TV" category.
+# 02/07/22 - EPG: [2] ../PBS/all.xml  << of the PBS channels that are left, there are no EPG avail., this source is no longer needed.
+# 02/06/22 - UPDATED: As there are TONS of Christmas content, moved "Christmas 365" out of "Holidays 365" and into it's own group. 
+# 02/06/22 - CATEGORY MAINTENANCE: Cleaned up category, updated streams and posters for content in "Christmas 365" category.
+# 02/06/22 - NEW SUB-CATEGORY: Added ❤️ Valentine's Day 365 ❤️ ("Holidays 365"), w/ Hallmark Movies & More, and Spark TV streams.
+# 02/05/22 - CATEGORY DELETED: Now that all "AMC Networks" have been relocated to their respective services, deleted category.
+# 02/04/22 - MAINTENANCE / NEW: Updated and relocated "AMC Networks" streams to ★★ AMC Networks ★★ subcategory in "Plex Live TV".
+# 02/04/22 - MAINTENANCE / NEW: Updated and relocated IMDb TV versions of "AMC Networks" in "Binge TV", mapped EPG where applicable.
+# 02/03/22 - MAINTENANCE / NEW: Updated and relocated "AMC Networks" streams to ★★ AMC Networks ★★ subcategory in "Samsung TV Plus".
+# 02/02/22 - CHANNELS REMOVED: Removed 📺 KCKS TV25 Channels 📺 from "USA Free TV" (dead for several weeks and unreliable otherwise).
+# 02/02/22 - EPG SOURCE DISCONTINUED: [3] https://cutt.ly/EPG_KCK_66101  << was only used for TV25 channels, no longer working.
+# 02/01/22 - MAINTENANCE: Updated tags and posters so that VODs appear better in TiviMate ("Ambient TV + Radio" category).
+# 01/31/22 - MAINTENANCE: Removed dead video links; updated tags so that it appears better in TiviMate ("Holidays 365" category).
+# 01/30/22 - CATEGORY MAINTENANCE: Added tags to VOD URLs in "Free2View TV | VOD" to be visible in TV category in TiviMate.
+# 01/30/22 - PLAYLIST MAINTENANCE: Added tags to VOD URLs in additional categories to be visible in TV category in TiviMate.
+# 01/30/22 - NEW CONTENT ADDED: Updated VOD URLs and added new titles optimized for TiviMate 'Movies' section in "Adults Only | 18+".
+# COMING SOON: Updates to News, Sports, 18+ categories; consolidating more categories; content from critical thinker.cyou.
+# COMING SOON: Seasonal category will get an additional update (moving halloween content into its own category...
+# COMING GOON: ...and consolidating the "Sci-Fi + Horror & Beyond" category into it). More reformatting for TiviMate Premium users.
 # !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist finalized as of 01/30/2022 ** !! See chronology of changes below...
 # 01/27/22 - NEW CHANNELS ADDED: New channels added to the 'Hit TV' subcategory in "Plex Live TV".
 # 01/27/22 - CHANNELS UPDATED: Tags added, new EPG mapped to channels in "Entertainment" group, ★★ Shout! Factory TV ★★ subcategory. 
