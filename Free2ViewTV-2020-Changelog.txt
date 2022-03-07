@@ -1,6 +1,15 @@
 # ************************************************************************************************************************************* 
 #
-# The Free2View Master Playlist Project! A Free and Legal IPTV List curated by The Frugal Streamer
+#      ______              ___ _    ___                 _______    __
+#     / ____/_______  ___ |__ \ |  / (_)__ _      __   /_  __/ |  / /
+#    / /_  / ___/ _ \/ _ \__/ / | / / / _ \ | /| / /    / /  | | / / 
+#   / __/ / /  /  __/  __/ __/| |/ / /  __/ |/ |/ /    / /   | |/ /  
+#  /_/   /_/   \___/\___/____/|___/_/\___/|__/|__/    /_/    |___/   
+#  
+#  
+# This is the Free2View TV Project streaming TV playlist, newly revised and updated edition for 2022! 
+#
+# For more details about this project, visit us: 
 # https://thefrugalstreamer.blogspot.com/p/free2viewtvpage1.html
 # Contact us: Free2ViewTVCanada@gmail.com
 #
@@ -9,41 +18,33 @@
 # guarantee that these links will remain stable or active and any dead links could be removed at any time. Enjoy! -Georges B.
 # Channel list begins after the Changelog in this document.
 #
-#
 # Download the complete Changelog (News and Updates):
-# https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Changelog.txt
+# NEW: https://raw.githubusercontent.com/Sphinxroot/Free2ViewTV/main/Free2ViewTV-2020-Changelog.txt
+# OLD: https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Changelog.txt
+# (This changelog file from 2020 will remain the same and will be updated with the new changes for 2021 and 2022.)
 #
 #
-# Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
-# IMPORTANT NOTICE: - PLEASE NOTE THAT CHANNEL LINE-UP CHANGES ARE OCCURING. THE FOLLOWING CHANNELS HAVE BEEN REMOVED FROM THE
-#                     PUBLICLY DISTRIBUTED Free2View TV PLAYLISTS FOR THE FOLLOWING REASONS LISTED BELOW:
-#                     (1) The following channels are either 'test' streams or 'backup' streams that were not intended for public
-#                         streaming without a valid pay-TV package and/or cable service login.
-#                         - Pop TV; Hallmark Channel; Hallmark Movies & Mysteries; The Olympic Channel (Team USA);
-#			  - Golf Channel.
-#                     (2) The following channels are streaming publicly online, but only on a 10-minute trial. 
-#                         After that, a valid pay-TV package and/or cable service login is required.
-#                         - CNN News; MSNBC News.
-#                     (3) The following networks have now gone behind a paywall and no longer available for free:
-#                         - CBC News Network; Law & Crime Trial Network (Live Trial streams)
-#
-#                     Channel line-up changes are continuing and will always be subject to modification.
-#                     The Free2View TV Project takes pride in being the *best* freely distributed IPTV playlist curating only
-#                     truly legal free live streams-- no unofficial streams, no bootlegged streams and no illegal re-streams.
-#                     The Free2View TV Project welcomes your feedback. Contact us at Free2ViewTVCanada@gmail.com.
-#
-#                     IMPORTANT NOTICE: Due to situations beyond the control of the Free2View TV Project, public access to 
-#                     Pluto TV and Stirr TV channels will no longer be available through this playlist. Pluto TV and Stirr TV can
-#                     still be accessed for free (with a program listing) through their websites and official apps. You can visit
-#                     https://pluto.tv/live-tv/ and https://stirr.com/watchnow to watch their live streams at any time.
-#                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
-#                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
-# 
-# 
-# This changelog will continue (for the sake of keeping a historical record of Free2View TV Updates), even though the new revised
-# list is dated as '2021' and without having to change to a new document URL.
+# ************************************************************************************************************************************* 
 #
 #
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated for End of Feb 2022 ** !! See chronology of changes below...
+# 03/04/22 - NEW CHANNELS: "Plex Live TV" channels new for March 2022 (Part 1) added. Part 2 will be added in the next update!
+# 03/03/22 - NEW CHANNELS: "Pluto TV" channels new for March 2022 (Part 1) added. Part 2 will be added in the next update!
+# 03/02/22 - CHANNELS REMOVED: Out of respect for Ukraine, F2V TV has removed RT channels from the playlist. It appears clear that RT 
+  ...would seek to continue to broadcast inaccurate propaganda amid events in Ukraine and so, I feel it's the responsible thing to do.
+# 02/25/22 - MINOR UPDATE: Mapped EPG to NASA livestreams in all relevant categories. https://www.nasa.gov/multimedia/nasatv/#public
+# 02/24/22 - NEW CHANNELS / UPDATED: Many streams in "Live News"; NEW: ★★ NewsPlayer+ Free ★★ https://www.newsplayerplus.com
+# 02/20/22 - NEW CHANNELS: Added some additional channels in the "Plex Live TV" group, ★★ Movies ★★ sub-category.
+# 02/14/22 - NEW CHANNELS / CATEGORY: New, "Klowd TV" with EPG, courtesy of @DeltaSR + @jhr1948 via Discord.
+# 02/13/22 - DOCUMENT UPDATE: Updated header and information at the top of the document of this playlist and changelog.
+# 02/13/22 - NEW CHANNELS: Fireplace 4K and Loupe 4K channels added in "Ambient TV + Radio" (Firelplace 4K added in Samsung group).
+# 02/13/22 - NEW CHANNELS: ★★ Veely ★★ sub-category added to "Free Ad Supported TV", EPG: [7] https://cutt.ly/DSr95Combinedepg
+# 02/13/22 - NEW CHANNELS / CATEGORY: New, "USA Regional | 32789" category. New EPG: [2] https://cutt.ly/EPG_FLO_32789
+# 02/13/22 - ...this new category is new and will be expanded in subsequent updates, added a few new channels to start.
+# COMING SOON: Planned update to Movies Plus category, updated channel streams, mapped EPG to additional channels.
+# COMING SOON: Reviewing all CBS News channels, fixing dead streams, adding additional local channels.
+# COMING SOON: Expanding "USA Regional | 32789", and Part 2 of newly added channels in "Plex Live TV" and "Pluto TV" categories.
+# COMING SOON: Expanding "Canada" category with new "Homegrown Hits" subcategory, with new 24/7 channels added to streaming platforms.
 # !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist finalized as of 02/14/2022 ** !! See chronology of changes below...
 # 02/12/22 - UPDATED CHANNELS: In "Binge TV" group, mapped EPG to '[adult swim]' using [7] https://cutt.ly/DSr95Combinedepg
 # 02/12/22 - PLEASE NOTE: EPG mapping for 'Morcaman' and 'Adult Swim' channels is still in beta testing, may not be 100% right now.
