@@ -1,0 +1,97 @@
+List of channels that are included for free in Stremium:
+
+ACL Cornhole TV
+AWE Plus
+Billiard TV
+Catholic TV
+C-SPAN
+C-SPAN2
+Charge
+Classic Reruns TV
+Comet
+CON TV
+CRTV
+Dove Channel
+EWTN
+FIDO TV
+Folk
+France24
+FStv
+FTF
+GustoTV
+HSN
+JLTV
+Law & Crime
+LSN
+MATV
+Mysongbird
+NASA TV
+Nashville Country TV
+Naturescape
+Newsmax TV
+OAN Plus
+Outside tv
+Pattrn
+PBS Kids
+POSI TV
+Qello Concerts
+QVC HD
+Retro TV
+SHOP HQ
+So Real
+T
+TBD
+TBN
+Volty
+Whistle TV
+World Poker Tour
+Stingray Karaoke
+Stingray Music – Classic Rock
+Stingray Music – Flashback 70s
+Stingray Music – Hit List
+Stingray Music – Hot Country
+Stingray Music – Pop Adult
+Stingray Music – Remember the ‘80s
+Stingray Music – Alternative
+Stingray Music – Soul Storm
+Stingray Music – Exitos del Momento
+Stingray Music – Hip-Hop/R&B
+
+=====================================================================================================================================
+
+List of channels that can be added to Stremium*: 
+*Premium subscription required to be able to manually add channels
+
+AMC Thrillers
+https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
+BUZZR
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8
+
+CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+CHARGE
+https://content-ause1.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
+COMET
+https://content-ausw1-up-1.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+
+DUST
+https://949e5cd19c404c0c86d71055faf37a0a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Dust/playlist.m3u8?ads.wurl_channel=149&ads.wurl_name=DUST&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+Pluto TV Horror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+Star Trek (Note: Pluto TV Star Trek channel) (Note: EPG may not be full or have missing data)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+The Walking Dead Universe
+https://amc-twdfanexperience-1-us.plex.wurl.tv/playlist.m3u8
+
+WKLEDT (PBS-KET)
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
+
+
+
+
