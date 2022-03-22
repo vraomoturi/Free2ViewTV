@@ -64,6 +64,17 @@ List of channels that can be added to Stremium*:
 
 (Additional channels will be constantly added and this list will be updated regularly.)
 
+How to add channels:
+	1. Log into your Stremium Basic account via your PC
+	2. Click on CHANNELS (left pane menu)
+	3. Click on the + sign at the top of the page.
+	4. Type one of the channel names from the list in the CHANNEL NAME field.
+	5. Copy the 'm3u8' stream from the list and paste it in the HLS URL field.
+	6. "Where is this channel available?" (Leave it as it is.)
+	7. "Public" (Leave the toggle switch OFF.)
+	8. "Guide Enabled" (This will toggle ON automatically, leave it ON.)
+	9. Click on ADD CHANNEL button.
+
 AMC Thrillers
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
@@ -81,6 +92,9 @@ https://content-ausw1-up-1.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m
 
 DUST
 https://949e5cd19c404c0c86d71055faf37a0a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Dust/playlist.m3u8?ads.wurl_channel=149&ads.wurl_name=DUST&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+G4 Select
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61e718a821a4d20007c608ff/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 Pluto TV Horror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
