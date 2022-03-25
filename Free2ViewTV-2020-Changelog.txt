@@ -27,6 +27,35 @@
 # ************************************************************************************************************************************* 
 #
 #
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated for Mid-March 2022 ** !! See chronology of changes below...
+# 03/23/22 - CATEGORY UPDATE / NEW CHANNELS: Added several new channels / reorganized categories in "Pluto TV"
+# 03/22/22 - NEW CHANNEL: By request, added KMSP FOX 9 News Minneapolis, ★★ Local News 24/7 ★★ in "Live News".
+# 03/21/22 - UPDATES/RELOCATION: Updated channels/remapped EPG in the "USA Free TV", some channels moved to "USA Regional | 32789".
+# 03/18/22 - NEW CHANNELS: ★★ True Crime ★★ sub-category added in "Binge TV" with new channels from various sources.
+# 03/15/22 - MAJOR NEW CATEGORY ADDED: "Local Now",** Credits: @DeltaSR + @jhr1948 via Discord | Adapted by: @geonsey Free2View TV **
+# 03/14/22 - MINOR UPDATE/FIXED: "Christmas 365". LocalNow EPG data now available courtesy of @DeltaSR + @jhr1948 via Discord.
+# 03/13/22 - NEW/UPDATED: Space Channel (Relocated), NASA (duplicated) to "Chills + Thrills",★★ Space News & Science ★★ 
+# 03/12/22 - FULL CATEGORY UPDATE: Completely updated "STIRR TV" using sources from @MattHuisman from our Discord community.
+# 03/12/22 - UPDATED STREAMS: ★★ NASA Live ★★ https://www.nasa.gov/nasalive ("Entertainment"), updated streams and EPG sources.
+# 03/11/22 - NEW CHANNEL: By request, added ABC7 Los Angeles 24/7 Eyewitness News Streams, ★★ Local News 24/7 ★★ in "Live News".
+# 03/11/22 - NEW CHANNEL: VPOD-TV 59.3 | Chicago IL, "USA Free TV" - https://vpodtv.com
+# 03/10/22 - CATEGORY UPDATE: "Free2View TV Select" is being updated with select channels included in our Roku apps...
+# 03/10/22 - ...this section is provided particularly for quick access to EPG for those who also use our F2V TV Select Roku apps.
+# 03/10/22 - Free2View TV Select for Roku - Volume 1: [Search Roku: "Free2View TV Select for Roku"]
+# 03/10/22 - Free2View TV Select for Roku - Volume 2: [Coming Soon, still in BETA testing]
+# 03/09/22 - CATEGORY RENAMED / UPDATED: Renamed "Sci-Fi + Horror & Beyond" as "Chills + Thrills", updated several streams.
+# 03/09/22 - NEW CHANNEL: Added Paranormal TV live stream from https://paranormal.tv/watch-live ("Chills + Thrills" category).
+# 03/08/22 - CHANNEL MAINTENANCE: Updated some channels in "Samsung TV Plus" category.
+# PROJECT UPDATE: Working on our Free2View TV Select for Roku apps, with a Volume 2 of our  to launch around first week of April.
+# PROJECT UPDATE: Next update for the curated Free2View TV playlist expected around second week of April 2022.
+# NEXT UPDATE: Additional channels were added to the original "Local Now" list, should have them updated here by the next update.
+# NEXT UPDATE: Planned additions include: https://www.kinocult.com - https://www.wionews.com/live-tv
+# NEXT UPDATE: Planned additions include: https://geb.tv - https://www.ntd.com/live.html - https://www.jaybirdtv.com/live-stations
+# COMING SOON: Planned update to Movies Plus category, updated channel streams, mapped EPG to additional channels.
+# COMING SOON: Reviewing all CBS News channels, fixing dead streams, adding additional local channels.
+# COMING SOON: Expanding "USA Regional | 32789"; continuing to expand "Plex Live TV", "Samsung TV Plus" and "Pluto TV" categories.
+# COMING SOON: Expanding "Canada" category with new "Homegrown Hits" subcategory, with new 24/7 channels added to streaming platforms.
+# COMING SOON: Possibly getting rid of the "Entertainment" category and relocating channels to other more specific categories...?
 # !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated for End of Feb 2022 ** !! See chronology of changes below...
 # 03/04/22 - NEW CHANNELS: "Plex Live TV" channels new for March 2022 (Part 1) added. Part 2 will be added in the next update!
 # 03/03/22 - NEW CHANNELS: "Pluto TV" channels new for March 2022 (Part 1) added. Part 2 will be added in the next update!
