@@ -1,5 +1,7 @@
 # ************************************************************************************************************************************* 
 #
+#
+#             ...oOo   W O R L D   F A M O U S   oOo...
 #      ______              ___ _    ___                 _______    __
 #     / ____/_______  ___ |__ \ |  / (_)__ _      __   /_  __/ |  / /
 #    / /_  / ___/ _ \/ _ \__/ / | / / / _ \ | /| / /    / /  | | / / 
@@ -27,6 +29,25 @@
 # ************************************************************************************************************************************* 
 #
 #
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated for early April 2022 ** !! See chronology of changes below...
+# 04/15/22 - NEW CHANNEL: Scream! Factory TV added in various categories. (No EPG yet) https://www.shoutfactorytv.com/live-channels
+# 04/09/22 - MINOR CATEGORY MAINTENANCE: Updated some channels and EPG mapping in "Chills + Thrills" category.
+# 04/07/22 - CHANNEL UPDATES: Digi TV | Webstream ("USA Free TV") is now Geo-USA. Removed from our Roku apps.
+# 04/07/22 - CHANNEL UPDATED: Classic Arts Showcase stream updated. Kaloopy stream updated (18+ list and category only).
+# 04/02/22 - MAINTENANCE: "CBC TV | ICI Télé (Geo-CA)": CBC Ottawa & CBC Windor removed (no sound); CBC Olympics streams updated.
+# 04/02/22 - MAINTENANCE: "Canada": CBC East (Geo-CA) feed changed from Ottawa to Toronto (no sound on Ottawa feed, cannot resolve).
+# 04/02/22 - EPG: Added a 'dummy' EPG with generic info to make things look better in the playlist. Testing in "Canada" category.
+# 04/01/22 - NEW CHANNEL: Pluto TV Stargate channel added to "Pluto TV", also to our Roku app "Free2View TV Select" Volume 2. 
+# 03/31/22 - NEW CATEGORY / CHANNELS: "Viva Live TV" https://www.vivalivetv.com w/ EPG courtesy of @DeltaSR + @jhr1948 via Discord.
+# 03/29/22 - NEW CATEGORY / CHANNELS: "SimulTV World" https://simultvworld.com w/ EPG courtesy of @DeltaSR + @jhr1948 via Discord.
+# PROJECT UPDATE: Updating Free2View TV Select for Roku apps, re-organizing channels in this list to better match line-up in apps.
+# PLANNED: Additional channels were added to the original "Local Now" list, should have them updated here by the next update.
+# PLANNED: Planned additions include: https://www.kinocult.com - https://www.wionews.com/live-tv
+# PLANNED: Planned additions include: https://geb.tv - https://www.ntd.com/live.html - https://www.jaybirdtv.com/live-stations
+# PLANNED: Planned additions include: https://www.dancetv.net/
+# PLANNED: Update channels, F2V TV category, MyTime TV with remapped EPG, add romance category in Roku app with this/other channels.
+# PLANNED: Check and update Vizio channels / binge TV - AMC channels in particular.
+# COMING SOON: To be reviewed based on previous info.
 # !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated for Mid-March 2022 ** !! See chronology of changes below...
 # 03/23/22 - CATEGORY UPDATE / NEW CHANNELS: Added several new channels / reorganized categories in "Pluto TV"
 # 03/22/22 - NEW CHANNEL: By request, added KMSP FOX 9 News Minneapolis, ★★ Local News 24/7 ★★ in "Live News".
