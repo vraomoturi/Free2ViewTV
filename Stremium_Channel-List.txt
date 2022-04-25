@@ -75,6 +75,9 @@ How to add channels:
 	8. "Guide Enabled" (This will toggle ON automatically, leave it ON.)
 	9. Click on ADD CHANNEL button.
 
+American Classics Entertainment (ACE)
+http://104.143.4.5:12000/aspen.m3u8
+
 AMC Thrillers
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
@@ -90,11 +93,20 @@ https://content-ause1.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 COMET
 https://content-ausw1-up-1.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
+DEFY
+https://scripps-defy-1-us.vizio.wurl.tv/playlist.m3u8
+
+DOVE
+https://dovenow-localnow.cinedigm.com/playlist.m3u8
+
 DUST
 https://949e5cd19c404c0c86d71055faf37a0a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Dust/playlist.m3u8?ads.wurl_channel=149&ads.wurl_name=DUST&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 G4 Select
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61e718a821a4d20007c608ff/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+NBC News Now HD
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
 Pluto TV Horror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
