@@ -1,3 +1,8 @@
+Read: A Complete Guide to Stremium: Watch & Record Live TV
+https://thefrugalstreamer.blogspot.com/p/stremium.html
+
+=====================================================================================================================================
+
 List of channels that are included for free in Stremium:
 
 ACL Cornhole TV
@@ -75,11 +80,12 @@ How to add channels:
 	8. "Guide Enabled" (This will toggle ON automatically, leave it ON.)
 	9. Click on ADD CHANNEL button.
 
-American Classics Entertainment (ACE)
-http://104.143.4.5:12000/aspen.m3u8
 
 AMC Thrillers
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
+American Classics Entertainment (ACE)
+http://104.143.4.5:12000/aspen.m3u8
 
 BUZZR
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8
@@ -105,6 +111,9 @@ https://949e5cd19c404c0c86d71055faf37a0a.mediatailor.us-east-1.amazonaws.com/v1/
 G4 Select
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61e718a821a4d20007c608ff/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
+KOOL TV
+http://64.91.244.153:1935/roku/roku/playlist.m3u8
+
 NBC News Now HD
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
@@ -117,8 +126,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d76
 The Walking Dead Universe
 https://amc-twdfanexperience-1-us.plex.wurl.tv/playlist.m3u8
 
+WFMZDT (WFMZ-DT) [WFMZ 69.1 Allentown PA WFMZDT1, independent TV station airing syndicated TV shows]
+https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
+
 WKLEDT (PBS-KET)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
+
+
 
 
 
