@@ -111,6 +111,14 @@ https://949e5cd19c404c0c86d71055faf37a0a.mediatailor.us-east-1.amazonaws.com/v1/
 G4 Select
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61e718a821a4d20007c608ff/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
+ION Television (choose 'ION FAST' from the dropdown options to get the accurate logo and EPG info)
+https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
+
+ION Plus (choose the SECOND 'ION PLUS' that appears in the dropdown options for the correct channel logo and EPG info)
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+-you can also use the stream below as an alternate-
+https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
+
 KOOL TV
 http://64.91.244.153:1935/roku/roku/playlist.m3u8
 
