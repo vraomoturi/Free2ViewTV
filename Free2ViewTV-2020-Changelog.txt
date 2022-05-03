@@ -29,6 +29,28 @@
 # ************************************************************************************************************************************* 
 #
 #
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated for Early May 2022 ** !! See chronology of changes below...
+# 05/02/22 - NEW CHANNELS: Ion TV / Ion+ in 📺 Free TV Webstreams 📺, "USA Free TV"; updated streams in "Samsung TV Plus" category.
+# 05/01/22 - EPG UPDATED: Additional EPG mapped to several more channels, source courtesy of @DeltaSR from our Discord group.
+# 04/28/22 - NEW CATEGORY / NEW & RELOCATED CHANNELS: Started "FilmRise TV & Movies" category with dozens of channels (in progress).
+# 04/28/22 - CHANNELS ADDED: Some additional FilmRise channels added in the "Samsung TV Plus" category.
+# 04/27/22 - INFO: Added info on how you can donate to our collaborators. The Free2View TV Project benefits greatly from their work!
+# 04/26/22 - NEW CHANNELS WITH EPG: KTOO 3.3 Juneau AK; WFMZ 69.1 & WFMZ Weather 69.2 added to "USA Free TV" (courtesy of @DeltaSR).
+# 04/26/22 - NEW CHANNELS: added a set of local channels from WFMZ under new sub-category 📺 Local TV Channels 📺 in "USA Free TV".
+# 04/25/22 - EPG UPDATED: New EPG data mapped to 'KOOL TV' and 'VPOD-TV 59.3' in "USA Free TV" category (courtesy of @DeltaSR).
+# 04/24/22 - CATEGORY MAINTENANCE: Cleaning up the "Binge TV" category, getting rid of some dead streams, 'Filmrise' are moving...
+# 04/23/22 - NEW CATEGORY / CHANNELS: All-new "Rakuten" category, complete list & EPG courtesy of @DeltaSR + @Apsattv via Discord.
+# 04/22/22 - UPDATE / NEW: Completely updated "Canada" category (removed dead streams, replaced others, new channels added)
+# 04/22/22 - NEW CHANNELS ADDED: In "Canada": NEW 🍁 Rogers TV 🍁 community live streams; 'CityNEWS 24/7 | Toronto', added.
+# 04/21/22 - CATEGORY DELETED / CHANNELS RELOCATED: "Free Ad Supported TV" deleted, ★★ Veely ★★ moved to "Entertainment".
+# 04/19/22 - NEW CHANNEL: 'Alter Horror | Redbox' added to "Chills + Thrills" (no EPG available), source from Redbox Live TV.
+# 04/18/22 - UPDATE: Re-mapped EPG in "USA Free TV" (actual EPG and generic EPG; more actual EPG on a few more channels soon).
+# 04/17/22 - UPDATE: Re-mapping EPG in many categories (actual EPG where possible, generic EPG where actual EPG data not available).
+# THE TO-DO LIST: Check all of the BFM TV francophone channels and update accordingly.
+# PLANNED: Planned additions include: https://www.kinocult.com - https://www.wionews.com/live-tv
+# PLANNED: Planned additions include: https://geb.tv - https://www.ntd.com/live.html - https://www.jaybirdtv.com/live-stations
+# PLANNED: Planned additions include: https://www.dancetv.net/
+# PROJECT UPDATE: Updating Free2View TV Select for Roku apps, re-organizing channels in this list to better match line-up in apps.
 # !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated for early April 2022 ** !! See chronology of changes below...
 # 04/15/22 - NEW CHANNEL: Scream! Factory TV added in various categories. (No EPG yet) https://www.shoutfactorytv.com/live-channels
 # 04/09/22 - MINOR CATEGORY MAINTENANCE: Updated some channels and EPG mapping in "Chills + Thrills" category.
