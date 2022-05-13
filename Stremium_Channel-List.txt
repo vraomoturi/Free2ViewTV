@@ -81,11 +81,14 @@ How to add channels:
 	9. Click on ADD CHANNEL button.
 
 
-AMC Thrillers
+AMC Thrillers (Note: This channel may no longer be in Stremium's channel database)
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
 American Classics Entertainment (ACE)
 http://104.143.4.5:12000/aspen.m3u8
+
+BINGE-TV SD (once it's added to Stremium, it will have the old Folk TV logo) (Also already in the Stremium channel list as FOLK-TV)
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/master.m3u8
 
 BUZZR
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8
@@ -105,8 +108,8 @@ https://scripps-defy-1-us.vizio.wurl.tv/playlist.m3u8
 DOVE
 https://dovenow-localnow.cinedigm.com/playlist.m3u8
 
-DUST
-https://949e5cd19c404c0c86d71055faf37a0a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Dust/playlist.m3u8?ads.wurl_channel=149&ads.wurl_name=DUST&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+FETV (found in Stremium as 'Family Entertainment Television')
+https://cdn1-6p.teleuptv.net/806c57bb-85bc-4773-becc-e24433711d14/index.m3u8
 
 G4 Select
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61e718a821a4d20007c608ff/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -125,13 +128,16 @@ http://64.91.244.153:1935/roku/roku/playlist.m3u8
 NBC News Now HD
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
-Pluto TV Horror
+Pluto TV Horror (Note: This channel may no longer be in Stremium's channel database)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-Star Trek (Note: Pluto TV Star Trek channel) (Note: EPG may not be full or have missing data)
+Pluto Stories by AMC
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+Star Trek (Note: This is the Pluto TV Star Trek channel, EPG may not be full or have missing data)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-The Walking Dead Universe
+The Walking Dead Universe (Note: This channel may no longer be in Stremium's channel database)
 https://amc-twdfanexperience-1-us.plex.wurl.tv/playlist.m3u8
 
 WFMZDT (WFMZ-DT) [WFMZ 69.1 Allentown PA WFMZDT1, independent TV station airing syndicated TV shows]
