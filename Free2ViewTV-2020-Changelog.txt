@@ -30,6 +30,20 @@
 #
 #
 # !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated for Early May 2022 ** !! See chronology of changes below...
+# 05/16/22 - NEW CHANNEL: Shout! Cult added to "Entertainment",★★ Shout! Factory TV ★★ https://shoutfactorytvlive.com/shout-cult
+# 05/16/22 - NEW CHANNEL: Kino Cult added to Plex, Entertainment webstreams sub-category - https://www.kinocult.com
+# 05/15/22 - CATEGORY UPDATE: Duplicated additional channels with category specific EPG in "USA Regional | 32789" group. 
+# 05/15/22 - CHANNEL MAINTENANCE: Updated stream and mapped EPG for EPlusTV 6 | Jackson TN, "USA Free TV" (courtesy of @DeltaSR).
+# 05/15/22 - CHANNEL MAINTENANCE: Mapped new EPG to WATC-57 Atlanta / WATC-57 Too | Classic TV, "USA Free TV" (courtesy of @DeltaSR).
+# 05/15/22 - MAINTENANCE / NEW: Re-organized and added new channels to new sub-group 📺 PBS Stations 📺 ("USA Free TV").
+# 05/15/22 - CHANNEL MAINTENANCE: Mapped new EPG to 🍁 Rogers TV 🍁 ("Canada") (courtesy of @DeltaSR).
+# 05/14/22 - MAINTENANCE: Fixed all the broken 🍁 ICI Télé Canada (Geo-CA) 🍁 streams in "CBC TV | ICI Télé (Geo-CA)".
+# 05/13/22 - UPDATED / MAINTENANCE: "Adults Only | 18+" category: Streams are being updated. Some VOD retired, new VOD coming soon.
+# 05/12/22 - MAINTENANCE: Several streams in the Samsung / Sci-Fi subcategory have been updated.
+# 05/10/22 - UPDATED: Cleaned up some streams and added Generic EPG data to "Ambient TV + Radio" category.
+# 05/08/22 - UPDATED: Some streams have been updated in the "Samsung TV Plus" category. Some new channels added.
+# 05/05/22 - NEW CHANNEL: 'Alter' added, available through the DUST app and Samsung TV Plus. https://www.watchdust.tv/LIVE%20TV
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated for Early May 2022 ** !! See chronology of changes below...
 # 05/02/22 - NEW CHANNELS: Ion TV / Ion+ in 📺 Free TV Webstreams 📺, "USA Free TV"; updated streams in "Samsung TV Plus" category.
 # 05/01/22 - EPG UPDATED: Additional EPG mapped to several more channels, source courtesy of @DeltaSR from our Discord group.
 # 04/28/22 - NEW CATEGORY / NEW & RELOCATED CHANNELS: Started "FilmRise TV & Movies" category with dozens of channels (in progress).
