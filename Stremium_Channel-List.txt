@@ -65,7 +65,7 @@ Stingray Music – Hip-Hop/R&B
 =====================================================================================================================================
 
 List of channels that can be added to Stremium*: 
-*Premium subscription required to be able to manually add channels
+*Although you can add custom channels in a Stremium Basic plan, a Premium subscription required to be able to record via Cloud DVR.
 
 (Additional channels will be constantly added and this list will be updated regularly.)
 
@@ -80,6 +80,23 @@ How to add channels:
 	8. "Guide Enabled" (This will toggle ON automatically, leave it ON.)
 	9. Click on ADD CHANNEL button.
 
+------------------------------
+
+NEW CHANNELS:
+
+Classic TV 4U
+https://broadcast.mytvtogo.net/classictv4u/classictv4u/playlist.m3u8
+
+Create (This is the PBS Create network)
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+
+DABL (found in Stremium as 'Dabl Network LLC')
+https://siloh.pluto.tv/lilo/production/DABL/master.m3u8
+
+The Price Is Right: The Barker Era
+http://siloh-sp.plutotv.net/lilo/production/ThePriceisRight/master.m3u8
+
+------------------------------
 
 AMC Thrillers (Note: This channel may no longer be in Stremium's channel database)
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
