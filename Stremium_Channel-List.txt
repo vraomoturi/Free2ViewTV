@@ -84,17 +84,17 @@ How to add channels:
 
 NEW CHANNELS:
 
-Classic TV 4U
-https://broadcast.mytvtogo.net/classictv4u/classictv4u/playlist.m3u8
+Chicken Soup For The Soul (This was formerly the CRACKLE channel.)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-chickensoup-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=ozAKtoCFFGXy8zeWWsRA&channelId=61a94815f6575693e6392561
 
-Create (This is the PBS Create network)
-https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+CineLife
+https://magnolia-cinelife.amagi.tv/playlist.m3u8?l1br3Date0730&Sc=Web&EPG=Plx&Cat=Movies
 
-DABL (found in Stremium as 'Dabl Network LLC')
-https://siloh.pluto.tv/lilo/production/DABL/master.m3u8
+Real Crime
+https://lds-realcrime-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realcrime-simplestream/CDN/master.m3u8
 
-The Price Is Right: The Barker Era
-http://siloh-sp.plutotv.net/lilo/production/ThePriceisRight/master.m3u8
+Timeline
+https://lds-timeline-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-timelinesimplestream/CDN/master.m3u8
 
 ------------------------------
 
@@ -116,8 +116,17 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 CHARGE
 https://content-ause1.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
+Classic TV 4U
+https://broadcast.mytvtogo.net/classictv4u/classictv4u/playlist.m3u8
+
 COMET
 https://content-ausw1-up-1.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+
+Create (This is the PBS Create network)
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+
+DABL (found in Stremium as 'Dabl Network LLC')
+https://siloh.pluto.tv/lilo/production/DABL/master.m3u8
 
 DEFY
 https://scripps-defy-1-us.vizio.wurl.tv/playlist.m3u8
@@ -150,6 +159,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e
 
 Pluto Stories by AMC
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+The Price Is Right: The Barker Era
+http://siloh-sp.plutotv.net/lilo/production/ThePriceisRight/master.m3u8
 
 Star Trek (Note: This is the Pluto TV Star Trek channel, EPG may not be full or have missing data)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
