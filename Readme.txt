@@ -44,9 +44,9 @@ PROJECT NEWS (5/26/22)
 
 The information about F2V TV that was located on the Free2View TV Project page on Blogger is no longer available and will be 
 replacedwith general streaming TV links and resources (including some pointers to Free2View TV resources just so that our 
-Project can stilleasily be found). Due to some Terms of Service that I seemed to have violated with Google (don't ask me what, 
-I am not counting ongetting a clear answer), all the documentation and files about our Project will be found here, in this 
-Github, instead.
+Project can stilleasily be found). Due to some Terms of Service that I seemed to have violated with Google (don't ask me 
+what, I am not counting ongetting a clear answer), all the documentation and files about our Project will be found here, 
+in this Github, instead.
 
 You may download a full-color PDF flyer with all the live links and sources used by the Free2View TV Project from this 
 Github repo. Download it here: https://github.com/Sphinxroot/Free2ViewTV/blob/main/FILES/Free2ViewTV_Flyer.pdf
