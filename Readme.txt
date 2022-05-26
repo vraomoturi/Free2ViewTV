@@ -1,6 +1,6 @@
 ReadMe Updated 5/26/22
 
-************************************************************************************************************************************* 
+*************************************************************************************************************************** 
 
 
              ...oOo   W O R L D   F A M O U S   oOo...
@@ -12,10 +12,10 @@ ReadMe Updated 5/26/22
   
  
 
-************************************************************************************************************************************* 
+*************************************************************************************************************************** 
 
-The Free2View TV Project files and information will now be exclusively found here in partnership with our collaborator @Sphinxroot
-https://github.com/Sphinxroot/Free2ViewTV
+The Free2View TV Project files and information will now be exclusively found here in partnership with our 
+collaborator @Sphinxroot - https://github.com/Sphinxroot/Free2ViewTV
 
 Also known as @StreamOnABudget, Georges Brunet operates his blog at https://thefrugalstreamer.blogspot.com/
 Contact us: Free2ViewTVCanada@gmail.com
@@ -32,23 +32,24 @@ The Free2View TV Project could not be possible without major collaborations from
 Support Our Collaborator: @DeltaSR Buy Me A Coffee! https://www.buymeacoffee.com/DeltaSr
 Support Our Collaborator: @MattHuisman Donate: https://www.matthuisman.nz/p/donate.html
 
-We have a great team of collaborators without whose work the Free2View TV Project's playlists and app wouldn't be what it is today. 
-Let's support them just like you've all supported me! Developer @matthuisman has been a major contributor of core lists and EPG 
-sources for the Free2View TV Project. @DeltaSr is a MAJOR contributor of amazing EPG sources. If you can, please show your support 
-with donations in appreciation of our collaborators' great projects and allowing the Free2View TV Project to adapt their work! 
-The Free2View TV Project would not be what it is today without their fantastic projects!
+We have a great team of collaborators without whose work the Free2View TV Project's playlists and app wouldn't be what it 
+is today. Let's support them just like you've all supported me! Developer @matthuisman has been a major contributor of core 
+lists and EPG sources for the Free2View TV Project. @DeltaSr is a MAJOR contributor of amazing EPG sources. If you can, 
+please show your support with donations in appreciation of our collaborators' great projects and allowing the Free2View TV 
+Project to adapt their work! The Free2View TV Project would not be what it is today without their fantastic projects!
 
-************************************************************************************************************************************* 
+***************************************************************************************************************************
 
 PROJECT NEWS (5/26/22)
 
-The information about F2V TV that was located on the Free2View TV Project page on Blogger is no longer available and will be replaced
-with general streaming TV links and resources (including some pointers to Free2View TV resources just so that our Project can still
-easily be found). Due to some Terms of Service that I seemed to have violated with Google (don't ask me what, I am not counting on
-getting a clear answer), all the documentation and files about our Project will be found here, in this Github, instead.
+The information about F2V TV that was located on the Free2View TV Project page on Blogger is no longer available and will be 
+replacedwith general streaming TV links and resources (including some pointers to Free2View TV resources just so that our 
+Project can stilleasily be found). Due to some Terms of Service that I seemed to have violated with Google (don't ask me what, 
+I am not counting ongetting a clear answer), all the documentation and files about our Project will be found here, in this 
+Github, instead.
 
-You may download a full-color PDF flyer with all the live links and sources used by the Free2View TV Project from this Github repo. 
-Download it here: https://github.com/Sphinxroot/Free2ViewTV/blob/main/FILES/Free2ViewTV_Flyer.pdf
+You may download a full-color PDF flyer with all the live links and sources used by the Free2View TV Project from this 
+Github repo. Download it here: https://github.com/Sphinxroot/Free2ViewTV/blob/main/FILES/Free2ViewTV_Flyer.pdf
 
 
 Note: FOR EDUCATIONAL PURPOSES ONLY. The Free2View TV Project is a non-profit, hobby based project,
